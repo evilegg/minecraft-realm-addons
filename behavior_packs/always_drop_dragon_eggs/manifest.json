@@ -1,0 +1,25 @@
+{
+   "format_version" : 1,
+   "header" : {
+      "description" : "Spawn Ender Loot on Dragon Kill",
+      "name" : "Ender Dragon Loot Table",
+      "platform_locked" : false,
+      "uuid" : "2d88aca6-8fa0-11e8-9eb6-529269fb1459",
+      "version" : [ 0, 0, 1 ]
+   },
+   "legacy_module_dependencies" : [
+      {
+         "uuid" : "891f5751-bb0e-47c6-91f0-fdc4e76949ef",
+         "version" : "0.0.1"
+      }
+   ],
+   "min_engine_version" : [ 0, 0, 1, 1, 2, 5 ],
+   "modules" : [
+      {
+         "description" : "Not Used",
+         "type" : "data",
+         "uuid" : "14d5fb6b-ef0a-47e5-8a98-d615709c1a03",
+         "version" : [ 0, 0, 1 ]
+      }
+   ]
+}
