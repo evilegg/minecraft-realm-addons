@@ -1,0 +1,17 @@
+{
+   "format_version" : 1,
+   "header" : {
+      "description" : "A double resolution texture pack that stays faithful to the original Minecraft textures.",
+      "name" : "Faithful 32x for Minecraft (Bedrock)",
+      "uuid" : "6f8df511-8b23-34ac-9e1f-c865cec25457",
+      "version" : [ 1, 4, 0 ]
+   },
+   "modules" : [
+      {
+         "description" : "A double resolution texture pack that stays faithful to the original Minecraft textures.",
+         "type" : "resources",
+         "uuid" : "7de2aec0-73b0-44b3-7a4a-39d27ea8d287",
+         "version" : [ 1, 4, 0 ]
+      }
+   ]
+}

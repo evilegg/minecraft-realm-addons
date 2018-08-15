@@ -1,0 +1,51 @@
+{
+  "namespace": "achievement",
+
+  "empty_progress_bar_icon": {
+    "type": "image",
+    "texture": "textures/gui/icons",
+	"uv": [ 0, 128 ],
+	"uv_size": [ 372, 10 ],
+	"size": [ 372, 10 ],
+	"offset": [ -4, -3 ],
+	"nineslice_size": [ 0.0, 0.0, 0.0, 0.0 ]
+  },
+
+  "full_progress_bar_icon_base": {
+    "type": "image",
+    "texture": "textures/gui/icons",
+	"uv": [ 0, 138 ],
+	"uv_size": [ 372, 10 ],
+	"size": [ 372, 10 ],
+	"offset": [ -4, -3 ],
+	"nineslice_size": [ 0.0, 0.0, 0.0, 0.0 ],
+    "clip_direction": "left",
+    "clip_pixelperfect": false,
+    "bindings": [
+      {
+        "binding_name": "#exp_progress",
+        "binding_name_override": "#clip_ratio",
+        "binding_type": "global"
+      }
+    ]
+  },
+  
+  "full_progress_bar_icon@achievement.full_progress_bar_icon_base": {  
+    "bindings": [
+      {
+        "binding_name": "#progress_percentage",
+        "binding_name_override": "#clip_ratio",
+        "binding_type": "collection",
+        "binding_collection_name": "achievement_list"
+      }
+    ]
+  },
+
+  "progress_bar_nub": {
+    "type": "image",
+    "texture": "textures/gui/achievements/notnub",
+	"uv": [ 0, 0 ],
+	"uv_size": [ 11, 5 ],
+	"tiled": false
+  }
+}
