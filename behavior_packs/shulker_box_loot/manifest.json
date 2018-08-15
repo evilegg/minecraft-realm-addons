@@ -1,0 +1,19 @@
+{
+  "format_version": 1,
+  "header": {
+    "description": "Shulkers alwys drop shells",
+    "name": "github.com/evilegg/minecraft-shulker-loot",
+    "platform_locked": false,
+    "uuid": "b59f0d3c-9d6b-11e8-98d0-529269fb1459",
+    "version": [ 0, 0, 1 ]
+  },
+  "min_engine_version": [ 0, 0, 1, 1, 2, 5 ],
+  "modules": [
+    {
+      "description": "Not Used",
+      "type": "data",
+      "uuid": "b59f0fda-9d6b-11e8-98d0-529269fb1459",
+      "version": [ 0, 0, 1 ]
+    }
+  ]
+}
