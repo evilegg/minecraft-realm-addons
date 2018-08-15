@@ -1,0 +1,21 @@
+{
+	"format_version" : 1,
+	"header" : {
+		"description" : "§6A Vanilla Tweaks Resource Pack by Xisumavoid (Bedrock port by SuperGeniusZeb)",
+		"name" : "§r§9Borderless Glass §cV1.0",
+		"uuid" : "9f6428db-24f1-410b-8476-bf7941fe20ae",
+		"version" : [ 1, 0, 0 ]
+	},
+	"modules" : [
+		{
+			"description" : "§6A Vanilla Tweaks Resource Pack by Xisumavoid (Bedrock port by SuperGeniusZeb)",
+			"type" : "resources",
+			"uuid" : "6913c5dc-bae8-4510-a3bf-ded8fa93c285",
+			"version" : [ 1, 0, 0 ]
+		}
+	],
+	"metadata" : {
+		"authors" : [ "Xisumavoid", "SuperGeniusZeb" ],
+		"url" : "http://supergeniuszeb.com/vanilla-tweaks"
+	}
+}

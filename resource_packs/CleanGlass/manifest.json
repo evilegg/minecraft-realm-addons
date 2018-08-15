@@ -1,0 +1,21 @@
+{
+	"format_version" : 1,
+	"header" : {
+		"description" : "§6A Vanilla Tweaks Resource Pack by Xisumavoid (Bedrock port by SuperGeniusZeb)",
+		"name" : "§r§9Clean Glass §cV1.0",
+		"uuid" : "39d47438-22ee-4c6c-b290-378ff2cc2252",
+		"version" : [ 1, 0, 0 ]
+	},
+	"modules" : [
+		{
+			"description" : "§6A Vanilla Tweaks Resource Pack by Xisumavoid (Bedrock port by SuperGeniusZeb)",
+			"type" : "resources",
+			"uuid" : "1aead33d-99d7-4416-bf84-528e2f5a98d3",
+			"version" : [ 1, 0, 0 ]
+		}
+	],
+	"metadata" : {
+		"authors" : [ "Xisumavoid", "SuperGeniusZeb" ],
+		"url" : "http://supergeniuszeb.com/vanilla-tweaks"
+	}
+}

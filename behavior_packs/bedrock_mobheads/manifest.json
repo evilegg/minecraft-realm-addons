@@ -1,0 +1,19 @@
+{
+  "format_version": 1,
+  "header": {
+    "description": "Adds chance to drop mob heads in bedrock edition",
+    "name": "github.com/evilegg/minecraft-bedrock-mobheads",
+    "platform_locked": false,
+    "uuid": "5e94b97a-9d74-11e8-98d0-529269fb1459",
+    "version": [ 0, 0, 2 ]
+  },
+  "min_engine_version": [ 0, 0, 1, 1, 2, 5 ],
+  "modules": [
+    {
+      "description": "Not Used",
+      "type": "data",
+      "uuid": "5e94bea2-9d74-11e8-98d0-529269fb1459",
+      "version": [ 0, 0, 1 ]
+    }
+  ]
+}
